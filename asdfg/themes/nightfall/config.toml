@@ -1,0 +1,48 @@
+[module]
+  [module.hugoVersion]
+    path = 'github.com/LordMathis/hugo-theme-nightfall'
+    extended = true
+    min = "0.80.0"
+    
+    baseURL = 'http://gohugo.io/'
+    languageCode = 'en-us'
+    theme = "hugo-theme-nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "/posts"
+  [[menu.header]]
+    name = "about"
+    weight = 0
+    url = "/about"
+
+[params]
+author = "ssesium"
+user = "ssesium"
+hostname = "gohugo.io"
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/ssesium"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://www.twitter.com/togamsoup"
+
+[[params.social]]
+key = 2
+name = "naver blog"
+url = "https://blog.naver.com/caesium_"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:caesium_@naver.com"
+
