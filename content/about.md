@@ -1,25 +1,15 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+description = "세슘블로그"
+date = "2023-10-24"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "ssesium"
 +++
+현마입니다:3 
+양극성장애 진단을 받았고요. 2주에 한 번씩 정신과에 가서 우울증 약을 처방받고 있어요. 작년 22년에 울산에 있는 모 대학에 진학했다 한 학기를 채우지 못하고 자살시도로 폐쇄병동에 한 달가량 입원한 전적이 있고... 지금껏 무기한 휴학을 때리고 인천에 있는 본가에서 지내면서 기후위기, 계급 불평등, 사회구조적 폭력에 대해서 생각하고 정치운동으로 이어가고자 하고 있습니다. 여성애를 하는 젠더퀴어고 동시에 페미니스트입니다(아마도. 제 생각엔.) 주변화된 삶의 방식과 낙인으로 작동하는 섹슈얼리티에 관한 고민을 가지고 있습니다.
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+무엇보다 저는 스스로 정신병자, 멘헤라라는 정체성을 강하게 가지고 있고 이 정체성이 저한테 굉장히 주된 것으로 여겨집니다. 주기적으로 왔다가 가는 우울증과 조증 삽화들, '자기파괴적인' 행동들과 항상 그 자리를 지키는 자살 생각들. 견디기 어려울 정도의 스트레스와 몰아치는 씨발 정신병. 도무지 자본주의사회에서 요구되는 과업들, 돈을 버는 일을 한다거나 학교에 다닌다거나 일정 수준의 생산성을 유지하면서 지낸다거나... 하는 일을 할 수가 없는 몸인 것이고. 스스로의 상태를 명명하고 도움을 구하려면 반드시 의료전문가들(별로 우호적이지 않을 때가 더 많은)을 통해야 한다는 이야기를 듣습니다.
 
-Hugo makes use of a variety of open source projects including:
+우리가 겪는 기이하고 비정상적인 경험들을 치료되어야 할 무언가로 바라보고 하루빨리 치워져야 할 대상처럼 보는 사회의 시선들도 있습니다. 이러한 동향들로 인해 명백히 신경증/정신병의 영향을 받고 있음에도 불구하고 의료 시스템 안에서 진단받지 못했다는 이유로 적법한 정병러라는 지위를 가지지 못하는 자가진단정병러의 경계선상의 위치. 정신건강문제를 사회적, 계급적 문제가 아닌 개인의 신경화학적 작용의 부전이라 끼워맞추는 정신의학의 이데올로기적 폭력. 정신질환자의 주체성과 판단능력을 부정하고, 의료 시스템에 머물 수밖에 없게 하며, 시설화와 감금으로 정신질환자를 사회 밖으로 내모는 흐름에 저항합니다. 우리가 겪는 고통은, 장애는 진짜이고 유효합니다. 우리는 그럼에도 불구하고 일상을 소중히 여기고 삶을 살아내 왔고 삶에서 얻은 지혜와 힘이 있습니다. 우리는 스스로와 서로를 도울 수 있고, 사회에서 삶을 꾸려갈 자격이 있는 정당한 사회구성원입니다. 우리와 우리의 친구들의 취약성을 포용하고 삶의 제반조건을 보장할 것을 요구합니다. 우리가 서로 연결되고 긴급하게 필요한 자원을 탐색할 수 있는 사회. 원치 않은 치료계획이나 감금을 거부할 수 있는 사회. 원하는 곳에서 원하는 모습으로 존재할 수 있는 사회로의 전환을 요구합니다.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+병리화된 우리들은 병리화되고 범죄화되어 사회 주변으로 내몰린 모든 취약한 존재들과 연대하고자 합니다.
